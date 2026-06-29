@@ -17,7 +17,9 @@ extends:
     
 site:
   template: book-theme
-  
+  options:
+    favicon: _static/favicon.svg
+    
   actions:
     - title: Feedback
       url: https://github.com/Natuurkunde/didadoda/issues
