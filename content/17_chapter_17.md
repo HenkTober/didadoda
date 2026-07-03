@@ -18,6 +18,7 @@ Verander nu de golflengte van het licht dat gebruikt wordt
 c)	Leg uit hoe het interferentiepatroon nu verandert. Gebruik hierbij de formule voor maxima van het interferentiepatroon van een twee spleten.
 
 **Vier smalle spleten**
+
 Een interferentiepatroon wordt geproduceerd door vier smalle spleten. Kies met de bovenste slider 4 spleten en selecteer met de slider voor de hoek onder de grafiek de eerste drie minima van de grafiek. 
 a)	Bekijk de fasordiagrammen en leg uit wat het faseverschil tussen de spleten is voor de eerst drie minima.
 b)	Leg uit hoe uit de fasordiagrammen blijkt dat er een minimum ontstaat.
