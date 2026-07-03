@@ -4,6 +4,8 @@ author: Henk Tober
 
 # Hoofdstuk Interferentie patroon van meerdere spleten 
 
+```{figure} ../figuren/interferentie.png
+
  open de volgende simulatie: https://henktober.github.io/Optica/main/diffractie_tralie_phasoren_v2.html
  
  **Voer de volgende opdracht uit:**
@@ -25,7 +27,7 @@ e)	Leg hoeveel nevenmaxima er zijn tussen de hogere hoofdmaxima en leg uit waaro
 
 
  
-```{figure} ../figuren/naambestand.jpg
+
  :width: 100% 
  :label: some_label_17 
  
